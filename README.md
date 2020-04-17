@@ -1,4 +1,4 @@
-# Korean-Movie-Customern-Prediction
+# Korean-Movie-Customer-Prediction
 Predict the number of customers 
 
 
